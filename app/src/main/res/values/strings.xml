@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="away">Away</string>
+    <string name="_3_points">+ 3 points</string>
+    <string name="_2_points">+ 2 points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="home">Home</string>
+    <string name="the_winnner_is">The Winnner is:</string>
+    <string name="time_is_over">Time is over!</string>
+    <string name="reset">Reset</string>
+</resources>
